@@ -30,4 +30,4 @@ project-login/
 ├─ register.html     # Halaman register  
 ├─ index.html        # Halaman login
 ├─ image/            # folder image
-├─ README.md         # Dokumentasi (ini file)   
+├─ README.md         # Dokumentasi (ini file)   # login-register-page
