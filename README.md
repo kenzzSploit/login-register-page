@@ -9,9 +9,11 @@ Desain clean dan modern dengan gradien warna lembut biar keliatan profesional ta
 
 ### 💜 Halaman Login
 ![Login Page](image/login.png)
+![Login Page](image/login2.png)
 
 ### 💗 Halaman Register
 ![Register Page](image/registert.png)
+![Register Page](image/registert2.png)
 
 ---
 
@@ -30,6 +32,4 @@ project-login/
 ├─ register.html     # Halaman register  
 ├─ index.html        # Halaman login
 ├─ image/            # folder image
-├─ README.md         # Dokumentasi (ini file)   # login-register-page
-# login-register-page
-# login-register-page
+├─ README.md         # Dokumentasi (ini file)
